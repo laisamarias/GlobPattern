@@ -1,4 +1,4 @@
-package main.java;
+
 public class GlobPattern {
     private final String pattern;
 
